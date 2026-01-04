@@ -25,4 +25,6 @@ The app uses the OpenWeather API to fetch real-time weather data and updates the
 - CSS3
 - JavaScript (Vanilla JS)
 - OpenWeather API
+  #live demo:
+  https://aadityakarn922.github.io/Weather_app/
   
